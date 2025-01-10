@@ -2,7 +2,7 @@
 # Oct 21 2021
 # CMSC 141
 # Software Mirror
-# Collaboration Statement: I worked alone on this assignment with assistance from tutor.
+
 
 # Warm-up:
 
